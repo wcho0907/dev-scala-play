@@ -1,6 +1,6 @@
 # Setup and use Play framework 2.X in Scala IDE 4.6.1
 
-One Paragraph of project description goes here
+based on http://scala-ide.org/docs/tutorials/play/
 
 ## Getting Started
 
